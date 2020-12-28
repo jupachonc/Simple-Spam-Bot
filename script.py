@@ -1,7 +1,7 @@
 from tkinter import Message
 import pyautogui as p
 
-msg = input("¿Qué Mensaje desea enviar)\n")
+msg = input("¿Qué Mensaje desea enviar?\n")
 
 n = int(input("¿Cuántas copias del mensaje quiere enviar?\n"))
 

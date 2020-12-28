@@ -1,1 +1,1 @@
-pip install pyautogui & python script.py
+pip install pyautogui &cls & python script.py
