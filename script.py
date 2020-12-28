@@ -1,4 +1,3 @@
-from tkinter import Message
 import pyautogui as p
 
 msg = input("¿Qué Mensaje desea enviar?\n")
