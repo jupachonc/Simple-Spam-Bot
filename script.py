@@ -5,5 +5,5 @@ msg = input("¿Qué Mensaje desea enviar?\n")
 n = int(input("¿Cuántas copias del mensaje quiere enviar?\n"))
 
 for x in range(x):
-    p.write("Holaaaa")
+    p.write(msg)
     p.press("enter")
