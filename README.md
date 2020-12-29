@@ -1,4 +1,4 @@
 # Simple-Spam-Bot
 Simple spam bot on python with pyautogui
 
-Install pyautogui with pip, on Windows Systems execute run.bat
+For Windows systems only execute run.bat, on macOS and linux install pyautogui with pip and execute script.py
